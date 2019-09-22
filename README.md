@@ -9,5 +9,8 @@ Code folder includes the following:
   - fraud_moedling_3 (Random Forest & XGB Models)
   
 Documentaton folder includes documents on the following:
-  - CP2_Final_Report (Final Report)
-  - fraud_summary (Presentation Slides)
+    - Capstone 2 Project Ideas (Brainstorming datasets and analyses)
+    - Capstone 2 Proposal (Project idea)
+    - CP2_Final_Report (Final Report)
+    - fraud_summary (Presentation Slides)
+
